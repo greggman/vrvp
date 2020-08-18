@@ -1,6 +1,6 @@
 # VR Video Player
 
-A no frills VR video player.
+A no frills VR video player (Oculus Rift only ATM)
 
 [Download Here](https://github.com/greggman/vrvp/releases)
 
@@ -75,6 +75,17 @@ I have not tested if that will work. The repo here is basically my `Assets` fold
 
   As it is it's small, easy to miss, easy to hit one of the buttons above. Not sure what the fix is
   but it works
+
+* Add support for other VR devices
+
+  * Index
+  * Vive
+  * Rift S (does it work already)
+  * Quest? (not interested in doing quest dev really but maybe someone else is)
+  * PSVR? (no idea what this would take)
+
+  Mostly I don't currently own any of these so there is easy no way to dev for them.
+  Would be nice if OpenXR support was the way to go.
 
 # License
 
